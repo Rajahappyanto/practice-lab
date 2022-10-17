@@ -14,4 +14,4 @@ selanjutnya untuk memastikan proses login berhasil, ketik perintah
 $ git config --list
 ---
 
-![scs1]pict_practice/scs1.png
+![scs1](pict_practice/scs1.png)
