@@ -51,3 +51,5 @@ $ git push -u origin main
 lebih lengkapnya lihat foto
 
 ![scs5](pict_practice/scs5.png)
+
+![scs6]pict_practice/scs6.jpg
