@@ -24,4 +24,4 @@ setelah membuat akun github kini saat nya untuk membuat repository. klik tombol 
 1) isi bagian nama repository
 2) isi deskripsi
 3) jenis repository publik atau privat
-![scs3]pict_practice/scs3.jpg
+![scs3](pict_practice/scs3.jpg)
