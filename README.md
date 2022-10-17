@@ -19,3 +19,9 @@ $ git config --list
 Untuk menggunakan git buat akun gihub  terlebih dulu. Github dan Git mempunyai hubungan khusus yaitu git sebagai version control sistem sedangkan github sebagai penyimpan kode pemograman.
 
 ![scs2](pict_practice/scs2.jpg)
+### 3. **BUAT REPOSITORY**
+setelah membuat akun github kini saat nya untuk membuat repository. klik tombol "new" pada menu **repository** untuk membuat repository baru. langkah langkahnya adalah sebagai berikut.
+1) isi bagian nama repository
+2) isi deskripsi
+3) jenis repository publik atau privat
+![scs3]pict_practice/scs3.jpg
