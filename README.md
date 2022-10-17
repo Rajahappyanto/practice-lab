@@ -30,3 +30,24 @@ Selanjutnya membuat folder pada local disk komputer untuk menyimpan file dari re
 ### 5. **BUKA FOLDER MENGGUNAKAN GIT BASH**
 Buka folder tsb dengan git bash, dengan cara click kanan, show more option, lalu click gitbash here.
 ![scs4](pict_practice/scs4.png)
+### 6. **UBAH FOLDER MENJADI REPODITORY**
+ubah folder menggunakan perintah 
+---
+
+$ git init
+---
+
+
+### 7. **TAMBAHKAN FILE REPOSITORY, BUAT KOMITMEN, HUBUNGKAN FILE KE REPOSITORY**
+
+lakukan menggunakan perintah dibawah ini
+---
+
+$ git add README.md
+$ git commit -m "desicription"
+$ git push -u origin main
+---
+
+lebih lengkapnya lihat foto
+
+![scs5]pict_practice/scs5.png
