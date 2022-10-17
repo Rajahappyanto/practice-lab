@@ -29,4 +29,4 @@ setelah membuat akun github kini saat nya untuk membuat repository. klik tombol 
 Selanjutnya membuat folder pada local disk komputer untuk menyimpan file dari repository yang telah di buat.
 ### 5. **BUKA FOLDER MENGGUNAKAN GIT BASH**
 Buka folder tsb dengan git bash, dengan cara click kanan, show more option, lalu click gitbash here.
-![scs4]pict_practice/scs4.png
+![scs4](pict_practice/scs4.png)
