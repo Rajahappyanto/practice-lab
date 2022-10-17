@@ -53,3 +53,7 @@ lebih lengkapnya lihat foto
 ![scs5](pict_practice/scs5.png)
 
 ![scs6](pict_practice/scs6.jpg)
+
+**untuk info lebih lanjut boleh hubungi nomor di bawah ini**
+
+### 08126320****
