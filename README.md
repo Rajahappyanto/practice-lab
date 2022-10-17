@@ -25,3 +25,8 @@ setelah membuat akun github kini saat nya untuk membuat repository. klik tombol 
 2) isi deskripsi
 3) jenis repository publik atau privat
 ![scs3](pict_practice/scs3.jpg)
+### 4. **BUAT FOLDER DI WINDOWS**
+Selanjutnya membuat folder pada local disk komputer untuk menyimpan file dari repository yang telah di buat.
+### 5. **BUKA FOLDER MENGGUNAKAN GIT BASH**
+Buka folder tsb dengan git bash, dengan cara click kanan, show more option, lalu click gitbash here.
+![scs4]pict_practice/scs4.png
