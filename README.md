@@ -15,3 +15,7 @@ $ git config --list
 ---
 
 ![scs1](pict_practice/scs1.png)
+### 2. **MASUK GITHUB**
+Untuk menggunakan git buat akun gihub  terlebih dulu. Github dan Git mempunyai hubungan khusus yaitu git sebagai version control sistem sedangkan github sebagai penyimpan kode pemograman.
+
+![scs2]pict_practice/scs2.jpg
