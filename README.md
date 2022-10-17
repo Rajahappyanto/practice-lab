@@ -52,4 +52,4 @@ lebih lengkapnya lihat foto
 
 ![scs5](pict_practice/scs5.png)
 
-![scs6]pict_practice/scs6.jpg
+![scs6](pict_practice/scs6.jpg)
